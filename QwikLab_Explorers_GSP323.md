@@ -24,7 +24,7 @@ sudo chmod +x qwiklab_explorers_gsp323.sh
 
 ./qwiklab_explorers_gsp323.sh
 ```
-
+* * Go to `Create a Dataproc cluster on Compute Engine` from [here](https://console.cloud.google.com/dataproc/clusters?)
 ---
 
 ## Congratulations ..!!🎉  You completed the lab shortly..😃💯
