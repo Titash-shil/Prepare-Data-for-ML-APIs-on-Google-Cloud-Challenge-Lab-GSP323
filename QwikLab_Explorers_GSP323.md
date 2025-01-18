@@ -18,11 +18,11 @@ export BUCKET_URL_1=
 export BUCKET_URL_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Store-Process-and-Manage-Data-on-Google-Cloud---Command-Line-Challenge-Lab-ARC102/refs/heads/main/qwiklab_explorers_arc102.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Prepare-Data-for-ML-APIs-on-Google-Cloud-Challenge-Lab-GSP323/refs/heads/main/qwiklab_explorers_gsp323.sh
 
-sudo chmod +x qwiklab_explorers_arc102.sh
+sudo chmod +x qwiklab_explorers_gsp323.sh
 
-./qwiklab_explorers_arc102.sh
+./qwiklab_explorers_gsp323.sh
 ```
 
 ---
